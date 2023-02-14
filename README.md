@@ -1,40 +1,16 @@
-<h1>My First Flutter App</h1>
+# flutter_application_test
 
-<h2>Description</h2>
-Project consists of a simple word generator which also has a "Like" button. The words liked by the user are stored and displayed on the "Favorites" page.
-<br />
+A new Flutter project.
 
+## Getting Started
 
-<h2>Languages and Utilities Used</h2>
+This project is a starting point for a Flutter application.
 
-- <b>Flutter</b>
+A few resources to get you started if this is your first Flutter project:
 
-<h2>Program walk-through:</h2>
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-<p align="center">
-Home: <br/>
-<img src="https://i.imgur.com/uwgh75a.png" height="80%" width="80%" alt="Home"/>
-<br />
-<br />
-Liking a word:  <br/>
-<img src="https://i.imgur.com/R0oPiob.png" height="80%" width="80%" alt="Liking a word"/>
-<br />
-<br />
-Favorites page: <br/>
-<img src="https://i.imgur.com/gcJKgjW.png" height="80%" width="80%" alt="Favorites page"/>
-<br />
-<br />
-When changing the window size, the title of the pages "Home" and "Favorites" adapt to its width by hiding: <br/>
-<img src="https://i.imgur.com/5Lz76o4.png" height="50%" width="50%" alt="The title of the pages adapt to the width of the window"/>
-<br />
-<br />
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
